@@ -86,4 +86,4 @@ If you like this project, don't forget to ⭐ the repo and share it!
 
 ## 👨‍💻 Author
 
-**Haseen Ahmad**
+**Haseen Khan**
